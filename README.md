@@ -1,223 +1,201 @@
+# Hi 👋, I'm Kasinath Anilkumar
+
+<h3 align="center">React Frontend Engineer | Building Scalable & Modern Web Applications</h3>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kasinath%20Anilkumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=React%20Frontend%20Engineer%20%7C%20Building%20Modern%20Web%20Experiences&descAlignY=62&descSize=16"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=React+Frontend+Engineer;Building+Scalable+Web+Applications;Creating+Real-Time+User+Experiences;Always+Learning+Always+Building"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/kasinath-anilkumar">
+<img src="https://komarev.com/ghpvc/?username=kasinath-anilkumar&label=Profile%20Views&color=0e75b6&style=flat"/>
+</a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+```javascript
+const kasinath = {
+  name: "Kasinath Anilkumar",
+  role: "React Frontend Engineer",
+  location: "Kerala, India",
+
+  degree: "Bachelor of Computer Applications",
+
+  stack: [
+    "React.js",
+    "JavaScript",
+    "TypeScript",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "Tailwind CSS"
+  ],
+
+  currentlyLearning: [
+    "System Design",
+    "WebRTC",
+    "Advanced React",
+    "Scalable Architecture"
+  ],
+
+  funFact: "I love building real-time web applications.",
+
+  motto() {
+    return "Build. Learn. Improve. Repeat.";
+  }
+};
+```
+
+---
+
+## 🚀 Tech Stack
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+
+### Frameworks
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square\&logo=vite\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square\&logo=socketdotio\&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+
+### Cloud & DevOps
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel\&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square\&logo=render\&logoColor=black)
+
+---
+
+## 📊 GitHub Analytics
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Kasinath+Anilkumar;Frontend+Engineer;Building+Real-Time+Web+Applications;React+%7C+Node.js+%7C+MongoDB;Open+to+Global+Opportunities"/>
-
-### Building scalable products, real-time experiences, and modern user interfaces.
-
-<br/>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/kasinath-anilkumar">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kasinath-anilkumar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
 
-<a href="https://kasinath-anilkumar-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:kasinathanikumar@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/kasinath-anilkumar">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasinath-anilkumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
 
 ---
 
-# 🚀 What I'm Building
+## 🔥 GitHub Streak
 
-### Ontlo — Privacy Focused Real-Time Social Platform
-
-A modern social platform designed around privacy, meaningful interactions, and real-time communication.
-
-* 🎥 WebRTC powered video communication
-* ⚡ Socket.io real-time architecture
-* 🔒 Privacy-first user experience
-* 📱 Mobile-first responsive design
-* 🚀 Optimized React performance
-* 🌍 Scalable MERN architecture
-
-> Currently my primary project and actively under development.
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=kasinath-anilkumar&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
+</p>
 
 ---
 
-# ⚡ Tech Stack
+## 📈 Contribution Graph
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,mongodb,tailwind,git,github,vercel,vscode,postman"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-| Frontend     | Backend    | Database      | Tools      |
-| ------------ | ---------- | ------------- | ---------- |
-| React.js     | Node.js    | MongoDB       | Git        |
-| JavaScript   | Express.js | MongoDB Atlas | GitHub     |
-| TypeScript   | REST APIs  |               | Vercel     |
-| Tailwind CSS | Socket.io  |               | Render     |
-| Vite         | JWT Auth   |               | Cloudinary |
-| shadcn/ui    | Mongoose   |               | Razorpay   |
-
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kasinath-anilkumar&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+</p>
 
 ---
 
-# 💼 Experience
+## 🏆 Trophy Wall
 
-### Freelance Frontend Developer
-
-**Jan 2025 — Present**
-
-* Developed production-ready React applications for clients.
-* Integrated REST APIs and authentication workflows.
-* Built responsive interfaces across desktop and mobile devices.
-* Delivered scalable frontend solutions following modern development practices.
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kasinath-anilkumar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
+</p>
 
 ---
 
-### White Matrix Software Solutions
+## 💼 Experience
 
-**Web Application Engineer (Contract)**
-**Nov 2024 — Jan 2025**
+### Freelance Frontend Developer (Jan 2025 – Present)
 
-* Developed frontend modules for KSRTC Fleet Management System.
-* Built reporting dashboards and operational workflow interfaces.
-* Integrated frontend systems with backend APIs.
-* Improved real-time reporting and user experience.
+* Developed scalable React.js applications for clients.
+* Integrated REST APIs and authentication systems.
+* Improved UI responsiveness across devices.
+* Delivered production-ready frontend solutions.
 
----
+### White Matrix Software Solutions (Nov 2024 – Jan 2025)
 
-### Zymo — Self Drive Car Rentals
+* Built fleet management system for KSRTC.
+* Developed reporting dashboards and operational workflows.
+* Integrated frontend modules with backend services.
+* Improved real-time reporting capabilities.
 
-**Web Developer Intern**
-**Sep 2024 — Nov 2024**
+### Zymo - Self Drive Car Rentals (Sep 2024 – Nov 2024)
 
-* Redesigned production website for improved usability.
-* Enhanced performance and responsiveness.
-* Built AI-powered rental assistant using Generative AI.
+* Redesigned production website UI.
+* Improved responsiveness and loading performance.
+* Built AI chatbot using Google Generative AI.
 * Optimized React rendering performance.
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🔹 Ontlo
-
-**Privacy-focused social platform built with React, WebRTC and Socket.io.**
-
-```text
-Real-time Communication
-WebRTC Video Interactions
-Secure Authentication
-Matchmaking System
-Responsive Design
-Modern React Architecture
-```
+| Project                | Stack                                         | Highlights                                                                         |
+| ---------------------- | --------------------------------------------- | ---------------------------------------------------------------------------------- |
+| Ontlo                  | React.js, WebRTC, Socket.io, Node.js, MongoDB | Privacy-focused real-time social platform with video communication and matchmaking |
+| Maadhaly               | React.js, Node.js, MongoDB, Razorpay          | Ecommerce platform with storefront, dashboard, payments and reporting              |
+| KSRTC Fleet Management | React.js, REST APIs                           | Dashboard and operational workflows for public transportation management           |
 
 ---
 
-## 🔹 Maadhaly
+## 🎓 Education
 
-**Modern Ecommerce Platform**
-
-```text
-Storefront Experience
-Admin Dashboard
-Razorpay Integration
-Sales Analytics
-Responsive UI
-Reusable Component Architecture
-```
-
-**Tech:** React.js • Node.js • Express.js • MongoDB • Razorpay
-
----
-
-## 🔹 KSRTC Fleet Management System
-
-**Enterprise dashboard solution for public transportation operations.**
-
-```text
-Vehicle Scheduling
-Operational Dashboards
-Reporting Systems
-Workflow Management
-API Integration
-```
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🎓 Education
-
-| Qualification                     | Institution                    | Year        |
+| Degree                            | Institution                    | Year        |
 | --------------------------------- | ------------------------------ | ----------- |
-| Bachelor of Computer Applications | Naipunnya School of Management | 2021 – 2024 |
+| Bachelor of Computer Applications | Naipunnya School of Management | 2021 - 2024 |
 | MERN Stack Training               | Luminar Technolab              | 2024        |
 
 ---
 
-# 🌱 Currently Learning
+## 📚 Currently Learning
 
 ```text
-⚛️ Advanced React Patterns
+🧱 System Design → Scalability, Distributed Systems
 
-🌐 WebRTC & Real-Time Systems
+⚛️ Advanced React → Performance, Patterns, Architecture
 
-🏗️ Frontend Architecture
+🌐 WebRTC → Signaling, Peer Connections, Media Streams
 
-☁️ Scalable Web Infrastructure
-
-🚀 System Design Fundamentals
+🚀 Full Stack Engineering → Production Infrastructure
 ```
 
 ---
 
-# 🤝 Let's Connect
+## 🌍 Connect With Me
 
-<div align="center">
-
-### Open to Frontend Engineer Opportunities
-
-📍 Kerala, India
-
-📧 [kasinathanikumar@gmail.com](mailto:kasinathanikumar@gmail.com)
-
-🌐 Portfolio
-https://kasinath-anilkumar-portfolio.vercel.app
-
-💼 LinkedIn
-YOUR_LINKEDIN_URL
-
-</div>
+* 📧 Email: [kasinathanikumar@gmail.com](mailto:kasinathanikumar@gmail.com)
+* 💻 GitHub: https://github.com/kasinath-anilkumar
+* 🌐 Portfolio: https://kasinath-anilkumar-portfolio.vercel.app
+* 💼 LinkedIn: YOUR_LINKEDIN_URL
 
 ---
 
-<div align="center">
-
-> "Great products are built when performance, usability and simplicity work together."
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:3B82F6,100:8B5CF6&section=footer"/>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+</p>
