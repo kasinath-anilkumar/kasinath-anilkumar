@@ -1,59 +1,81 @@
-# Hi 👋, I'm Kasinath Anilkumar
-
 <h3 align="center">React Frontend Engineer | Building Scalable & Modern Web Applications</h3>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kasinath%20Anilkumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=React%20Frontend%20Engineer%20%7C%20Building%20Modern%20Web%20Experiences&descAlignY=62&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Kasinath%20Anilkumar&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Frontend%20Engineer%20•%20React.js%20Developer%20•%20Real-Time%20Systems&descAlignY=62&descSize=18&color=0:111827,50:2563EB,100:7C3AED"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=React+Frontend+Engineer;Building+Scalable+Web+Applications;Creating+Real-Time+User+Experiences;Always+Learning+Always+Building"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=850&lines=Building+Scalable+Web+Applications;Creator+of+Ontlo;React+%7C+Node.js+%7C+MongoDB;Real-Time+Communication+Systems;Open+to+Frontend+Engineer+Opportunities"/>
 </p>
 
 <p align="center">
+<a href="www.linkedin.com/in/kasinath-anilkumar-63059130a">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://kasinath-anilkumar-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:kasinathanikumar@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 <a href="https://github.com/kasinath-anilkumar">
-<img src="https://komarev.com/ghpvc/?username=kasinath-anilkumar&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=kasinath-anilkumar&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/kasinath-anilkumar?label=Followers&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/kasinath-anilkumar?affiliations=OWNER&style=for-the-badge"/>
+</p>
+
+<p align="center">
+
+💼 Frontend Engineer with experience building production-ready applications
+
+🚀 Currently building **Ontlo**, a privacy-focused real-time social platform
+
+⚡ Specialized in React.js, Real-Time Systems, and Performance Optimization
+
+🌍 Open to opportunities across Europe, UK, Germany, and Remote Teams
+
+</p>
+
 
 ---
 
 ## 👨‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="380" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif"/>
 
-```javascript
-const kasinath = {
-  name: "Kasinath Anilkumar",
-  role: "React Frontend Engineer",
-  location: "Kerala, India",
+Frontend Engineer with experience building production-ready web applications, real-time communication systems, and modern user interfaces using React.js and the MERN stack.
 
-  degree: "Bachelor of Computer Applications",
+Currently building **Ontlo**, a privacy-focused social platform powered by WebRTC and Socket.io, focused on secure real-time interactions and scalable frontend architecture.
 
-  stack: [
-    "React.js",
-    "JavaScript",
-    "TypeScript",
-    "Node.js",
-    "Express.js",
-    "MongoDB",
-    "Tailwind CSS"
-  ],
+### What I Do
 
-  currentlyLearning: [
-    "System Design",
-    "WebRTC",
-    "Advanced React",
-    "Scalable Architecture"
-  ],
+* ⚛️ Build scalable React.js applications
+* 🚀 Develop responsive and performance-focused user interfaces
+* 🌐 Create real-time experiences using WebRTC and Socket.io
+* 🔐 Implement authentication and API-driven systems
+* 📱 Design mobile-first experiences across devices
 
-  funFact: "I love building real-time web applications.",
+### Current Focus
 
-  motto() {
-    return "Build. Learn. Improve. Repeat.";
-  }
-};
+```text
+🚀 Ontlo - Privacy Focused Social Platform
+🌐 WebRTC & Real-Time Communication
+⚡ Advanced React Architecture
+🏗️ Scalable Frontend Systems
 ```
+
+> "Great products are built when performance, usability, and simplicity work together."
+
 
 ---
 
@@ -61,47 +83,65 @@ const kasinath = {
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-### Frameworks
+### Frontend
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square\&logo=vite\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square\&logo=socketdotio\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=flat-square)
+
+### Real-Time & Communication
+
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-### Databases
+### Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-### Cloud & DevOps
+### Payments & Integrations
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel\&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square\&logo=render\&logoColor=black)
+![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Google AI](https://img.shields.io/badge/Google_Generative_AI-4285F4?style=flat-square&logo=google&logoColor=white)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
+
+### Cloud & Deployment
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
 ---
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kasinath-anilkumar&theme=tokyonight" />
+</p>
 
-<a href="https://github.com/kasinath-anilkumar">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kasinath-anilkumar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-</a>
-
-<a href="https://github.com/kasinath-anilkumar">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasinath-anilkumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-</a>
-
-</div>
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kasinath-anilkumar&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kasinath-anilkumar&theme=tokyonight" />
+</p>
 
 ---
 
@@ -121,11 +161,29 @@ const kasinath = {
 
 ---
 
-## 🏆 Trophy Wall
+## 🚀 Current Focus
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kasinath-anilkumar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
-</p>
+<table>
+<tr>
+<td>🚀 Project</td>
+<td><strong>Ontlo</strong> — Privacy-Focused Real-Time Social Platform</td>
+</tr>
+
+<tr>
+<td>🌐 Learning</td>
+<td>WebRTC, System Design, Real-Time Communication</td>
+</tr>
+
+<tr>
+<td>⚡ Specialization</td>
+<td>React.js, Frontend Performance, UI Architecture</td>
+</tr>
+
+<tr>
+<td>🏗️ Building</td>
+<td>Scalable Frontend Systems & Real-Time Experiences</td>
+</tr>
+</table>
 
 ---
 
@@ -192,10 +250,10 @@ const kasinath = {
 * 📧 Email: [kasinathanikumar@gmail.com](mailto:kasinathanikumar@gmail.com)
 * 💻 GitHub: https://github.com/kasinath-anilkumar
 * 🌐 Portfolio: https://kasinath-anilkumar-portfolio.vercel.app
-* 💼 LinkedIn: YOUR_LINKEDIN_URL
+* 💼 LinkedIn: www.linkedin.com/in/kasinath-anilkumar-63059130a
 
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+  <img width="100%" alt="Ontlo Banner" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" />
 </p>
